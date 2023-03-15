@@ -1,0 +1,23 @@
+#titulo1{
+   color: #9E2020; 
+    text-align: center;
+    font-family:Didot;
+}
+#sub{
+   color:#F5A998;
+}
+#sub2{
+    color:#F5A998;
+}
+#sub3{
+    color:#F5A998;
+}
+#imagen{
+    display: inline-block;
+    float:right;
+    width: 70%;
+
+}
+body{
+    background-color:#F9E7B2;
+}

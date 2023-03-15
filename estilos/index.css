@@ -1,0 +1,36 @@
+#imagen1{
+    float: left;
+    display: inline-block;
+    width: 15%;
+}
+#imagen2{
+    display: inline-block;
+    width: 15%;
+}
+#titulos{
+     display: inline-block;
+    width: 55%;
+}
+#navegacion{
+    clear: both;
+    font-family:BradleyHand;
+}
+.menu{
+    display: inline-block;
+    width: 10%;
+    background-color:skyblue;
+    border: solid;
+    text-align: center;
+}
+#marco{
+    width: 99%;
+    height: 600px;
+    padding: 8px;
+    border: outse;
+}
+#pie{
+    border: double;
+    font-family:cursive;
+    font-weight:100;
+}
+

@@ -1,0 +1,21 @@
+#titulo{
+    text-align: center;
+ font-family:Brush Script MT;
+    font-size: 45px;
+    font-weight: 200;
+    
+}
+.parrafo{
+   text-align: center; 
+    display: inline-block;
+    font-family:Courier;
+}
+body{
+    background-color: #FFD1FE;
+}
+header{
+    background-color:#F8B5FF;
+}
+#iniima{
+  float:right;
+}
